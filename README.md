@@ -45,6 +45,6 @@ I love the entire process of solving complex business problems leveraging data &
 ![PYPI](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ReactJS](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ReactJS](https://img.shields.io/badge/ReactJS-F24E1E?style=for-the-badge&logo=reactjs&logoColor=white)
 ![Tailwindcss]()
 ![Three.js]()
