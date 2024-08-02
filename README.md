@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="http://localhost:5173/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/218668081-bb444285-0ae1-4bca-9d89-bbe9ff1c40cb.gif" alt="my banner"></a>
+</p>
 <h1 align="center">
 I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Dam Chi Vi</a> 👋
 </h1>
