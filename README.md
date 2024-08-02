@@ -1,12 +1,9 @@
-<p align="center">
-  <a href="http://localhost:5173/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/66141195/218668081-bb444285-0ae1-4bca-9d89-bbe9ff1c40cb.gif" alt="my banner"></a>
-</p>
 <h1 align="center">
-I'm <a href="https://www.tushar-aggarwal.com/" target="_blank" rel="noreferrer">Dam Chi Vi</a> 👋
+I'm <a href="http://localhost:5173/" target="_blank" rel="noreferrer">Dam Chi Vi</a>
 </h1>
 
 <h2 align="center">
-I'm a Certified Data Scientist 💻, Finance professional💹, Screen Writer✍️ </br>& RNCP certified Manager(Europe)👨‍💼!
+I'm a Web Developer 💻, Data Analyst💹  
 </h2> 
 
 I love the entire process of solving complex business problems leveraging data & the challenge of finding out of box approaches & applying them to increase business. My Github profile showcases various Python, PostgreSQL, Machine Learning, Data Analytics, NLP, Computer vision projects that demonstrate my technical abilities and ability to apply data science concepts to real-world problems. From data gathering, cleaning and exploration, to building predictive models and creating data visualizations, I am dedicated to delivering high-quality solutions.
