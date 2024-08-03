@@ -10,7 +10,7 @@ I love the entire process of solving complex business problems leveraging data &
 
 ### 🤝 Connect with me 🤝
 
-<a href="https://www.linkedin.com/in/tusharaggarwalinseec/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar | LinkedIn" width="170px"/></a>
+<a href="https://www.linkedin.com/in/dam-chi-vi-8a85b32b5/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="DerekDam | LinkedIn" width="170px"/></a>
 <a href="https://www.novypro.com/profile_projects/tusharagg"><img align="center" src="https://github.com/tushar2704/tushar2704/assets/66141195/43488e50-092a-4974-8be4-a3d24673f445" alt="Tushar | Medium" width="150px" height="39px"/></a>
 
 - 💬 If you have any project collaboration request, please do not hesitate to reach out to me!
